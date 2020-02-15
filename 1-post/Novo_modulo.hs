@@ -1,0 +1,1 @@
+rmultiplica3 x y = x * y

@@ -1,0 +1,13 @@
+-- https://pt.wikipedia.org/wiki/Alonzo_Church
+-- https://pt.wikipedia.org/wiki/Alan_Turing
+-- https://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing
+-- https://en.wikipedia.org/wiki/Currying
+
+-- http://haskell.tailorfontela.com.br/higher-order-functions
+- http://learnyouahaskell.com/higher-order-functions
+- http://learnyouahaskell.com/recursion
+- https://mmhaskell.com/blog/2019/5/13/quicksort-with-haskell
+- http://learnyouahaskell.com/recursion#hello-recursion
+- http://learnyouahaskell.com/starting-out#an-intro-to-lists
+- http://learnyouahaskell.com/chapters
+- http://learnyouahaskell.com/starting-out#ready-set-go
